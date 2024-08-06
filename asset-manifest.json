@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/car-catalog/static/css/main.9ad2736e.css",
+    "main.js": "/car-catalog/static/js/main.4137bc36.js",
+    "static/js/453.93cebbe1.chunk.js": "/car-catalog/static/js/453.93cebbe1.chunk.js",
+    "static/media/hura_evo_spy_over_01.jpg": "/car-catalog/static/media/hura_evo_spy_over_01.313b3db462eafd982d6f.jpg",
+    "static/media/01_GT_Front_34_Static_centered-1_crop-16x9.jpg": "/car-catalog/static/media/01_GT_Front_34_Static_centered-1_crop-16x9.fbd439c5205e7e2418a1.jpg",
+    "static/media/over_new.jpg": "/car-catalog/static/media/over_new.d489ce3ecc82ffd825c2.jpg",
+    "static/media/revuelto_over_01.jpg": "/car-catalog/static/media/revuelto_over_01.7d9d537a1db85af1ddad.jpg",
+    "static/media/hura_sto_over_02.jpg": "/car-catalog/static/media/hura_sto_over_02.f33eb9416677149f594e.jpg",
+    "static/media/2023-Porsche-911-GT3-RS-in-motion-3.jpg": "/car-catalog/static/media/2023-Porsche-911-GT3-RS-in-motion-3.9cb02037878f0d6c11e0.jpg",
+    "static/media/aperta05.jpg": "/car-catalog/static/media/aperta05.7c402e74035e923384db.jpg",
+    "static/media/Ferrari 812 Competizione 2021-2.jpg": "/car-catalog/static/media/Ferrari 812 Competizione 2021-2.dfbfa91ba4650396b919.jpg",
+    "index.html": "/car-catalog/index.html",
+    "main.9ad2736e.css.map": "/car-catalog/static/css/main.9ad2736e.css.map",
+    "main.4137bc36.js.map": "/car-catalog/static/js/main.4137bc36.js.map",
+    "453.93cebbe1.chunk.js.map": "/car-catalog/static/js/453.93cebbe1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ad2736e.css",
+    "static/js/main.4137bc36.js"
+  ]
+}
