@@ -1,8 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@keyframes slideFromLeft{
+  from {transform:translateX(-100%)}
+  to {transform:translateX(0)}
+}
+
+*{
+  box-sizing:border-box;
+  font-family:sans-serif;
+  color:white;
+  font-weight:bold;
+  transition:all .2s linear;
+}
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -10,4 +24,20 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.drop-shadow-text{
+  text-shadow:0 0 5px black;
+}
+
+.arrow{
+  text-shadow:none;
+}
+
+.car{
+  background:linear-gradient(to bottom, rgb(0,0,0,0.3), rgb(0,0,0,0.3), rgb(0,0,0,0.3), rgb(0,0,0,0.3), black,black);
+}
+
+.slideFromLeft{
+  animation:slideFromLeft .4s linear;
 }
